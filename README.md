@@ -5,3 +5,4 @@
 - <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/02_algo_analysis.ipynb">Types of Algorithm Analysis</a>
 - <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/03_asymptotic_notation.ipynb">Asymptotic Notation</a>
 - <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/04_recursion.ipynb">Recursion and Iteration</a>
+- <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/05_backtracking.ipynb">Backtracking algorithm</a>
