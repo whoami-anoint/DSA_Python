@@ -9,4 +9,7 @@
 - <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/06_array.ipynb">Array in Python</a>
 ### Array Questions and Solutions with Algorithms </b>
 - [X] <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/Array%20Problems/distinct_3_elements.ipynb">Find the largest three distinct elements in an array.</a>
+- [X] <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/Array%20Problems/second_largest_Element_Array.ipynb
+">Find the largest largest element in an array.</a>
+
 
