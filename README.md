@@ -1,5 +1,5 @@
- <b> I'm sharing my notes of "Data Structure and Algorithm using Python" in github as a online reference. </b> <p><img src="https://realpython.com/cdn-cgi/image/width=220,format=auto/https://files.realpython.com/media/The-Best-Books-for-Python-Beginners_Watermarked.530f76514c63.jpg" alt="The Rust Logo" /></p>
-
+ # I'm sharing my notes of "Data Structure and Algorithm using Python" in github as a online reference. 
+![image](https://github.com/whoami-anoint/DSA_Python/assets/72187543/e9515d7f-1b12-4cd0-a3bc-94ec6b813ec8)
 
 - <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/01_DSA_intro.ipynb">Introduction of Data Structure and Algorithm</a>
 - <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/02_algo_analysis.ipynb">Types of Algorithm Analysis</a>
