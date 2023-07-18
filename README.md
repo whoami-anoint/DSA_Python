@@ -13,5 +13,3 @@
 ">Find the largest largest element in an array.</a>
 - [X] <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/Array%20Problems/move_zero_end_array.ipynb"> Move all zeroes to end of array.</a>
 - [X] <a href = "https://github.com/whoami-anoint/DSA_Python/blob/master/Array%20Problems/Rearrange_array.ipynb"> Rearrange array such that even positioned are greater than odd.</a>
-
-- [X]
